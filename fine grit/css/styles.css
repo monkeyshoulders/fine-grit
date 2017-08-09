@@ -1,0 +1,228 @@
+#bg {
+  position: static;
+  height: 450px;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  top: 0;
+  left: 0;
+  font-family: 'Lato', sans-serif;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+
+
+#jumbotron {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: rgba(163, 160, 156, 0.67)
+}
+
+#navbar {
+  margin-bottom: 0;
+  background-color: rgb(87, 88, 94);
+}
+
+#icons {
+  margin-right: 0.5em;
+}
+
+#phone {
+  padding: 0.3em;
+  padding-right: 1em;
+}
+
+#middle {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 100;
+  background-color: rgba(171, 171, 171, 0.5);
+}
+
+#name {
+  font-size: 6em;
+  font-family: 'Lato', serif;
+  font-weight: 100;
+  padding-bottom: 40px;
+  margin-bottom: 0.5em;
+
+}
+
+#about {
+  margin-top: 30px;
+  margin-bottom: 1em;
+}
+
+#caption {
+  font-size: 1em;
+  width: 16em;
+}
+
+#katie {
+  text-align: left;
+}
+
+#dude {
+
+}
+
+#second{
+  margin-bottom: 2em;
+}
+
+#content {
+  font-size: 18px;
+  margin-bottom: 100px;
+  margin-top: 10px;
+  padding-left: 3em;
+  padding-right: 3em;
+
+}
+
+#work {
+  margin-bottom: 1em;
+}
+
+#pics {
+  margin: 2em;
+  padding: 10px;
+  border: 5px;
+  align-items: center;
+
+}
+
+#hr-pics {
+  margin-top: 4em;
+}
+
+#video {
+  background-color: rgba(171, 171, 171, 0.5);
+}
+
+#round {
+  height: 300px;
+  width: 300px;
+  margin-top: 2.5em;
+  margin-left: 3em;
+}
+
+#pics {
+  margin-left: 3em;
+  margin-right: 3em;
+  margin-bottom: 3em;
+}
+
+.hr {
+  color: rgb(0, 0, 0);
+  margin-bottom: 6em;
+}
+
+#social {
+  margin-top: 1em;
+
+
+}
+
+#copyw {
+  padding-bottom: 1em;
+  margin-top: 2em;
+  background-color: rgb(87, 87, 87);
+
+}
+
+#footerhr {
+  margin-top: 4em;
+  margin-bottom: 2em;
+
+}
+
+#map {
+  margin-bottom: 3em;
+
+}
+
+#come {
+  margin-bottom: 1em;
+
+}
+
+/* social buttons from Bootstrap 3.3.0 Snippet by JGoodwillieV
+
+/* footer social icons */
+ul.social-network {
+	list-style: none;
+	display: inline;
+	margin-left:0 !important;
+	padding: 0;
+}
+ul.social-network li {
+	display: inline;
+	margin: 0 5px;
+}
+
+
+/* footer social icons */
+.social-network a.icoRss:hover {
+	background-color: #F56505;
+}
+.social-network a.icoFacebook:hover {
+	background-color:#3B5998;
+}
+.social-network a.icoTwitter:hover {
+	background-color:#33ccff;
+}
+.social-network a.icoGoogle:hover {
+	background-color:#BD3518;
+}
+.social-network a.icoVimeo:hover {
+	background-color:#0590B8;
+}
+.social-network a.icoLinkedin:hover {
+	background-color:#007bb7;
+}
+.social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+.social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+	color:#fff;
+}
+a.socialIcon:hover, .socialHoverClass {
+	color:#44BCDD;
+}
+
+.social-circle li a {
+	display:inline-block;
+	position:relative;
+	margin:0 auto 0 auto;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	border-radius:50%;
+	text-align:center;
+	width: 50px;
+	height: 50px;
+	font-size:20px;
+}
+.social-circle li i {
+	margin:0;
+	line-height:50px;
+	text-align: center;
+}
+
+.social-circle li a:hover i, .triggeredHover {
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-ms--transform: rotate(360deg);
+	transform: rotate(360deg);
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	transition: all 0.2s;
+}
+.social-circle i {
+	color: #fff;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
